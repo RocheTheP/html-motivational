@@ -1,0 +1,30 @@
+* {
+    background-color: black; 
+}
+
+#main {
+    border: solid black
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif; color: white; background-color: black;
+    text-align: center; text-transform: uppercase;}
+
+img {
+    width: 100%; border: 5px solid white; margin-top: 20px;
+
+}
+
+div {
+    text-align: center; width: 50%; margin-left: 25%;
+}
+
+p {
+    font-family: 'Libre Baskerville', serif; color: white; background-color: black;
+    text-align: center; font-size: 12pt;  
+}
+
+.credits { font-family: 'Cedarville Cursive', cursive; color: white; background-color: black;
+    text-align: center; font-size: 9pt; text-decoration: underline; text-decoration-color: #4B5D67;
+
+}
